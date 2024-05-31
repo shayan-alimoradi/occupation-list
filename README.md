@@ -17,7 +17,7 @@ This project implements a web scraper using Scrapy to extract information from t
 
 2. Install dependencies:
     ```bash
-    pip install scrapy scrapy-splash
+    pip install -r requirements.txt
 
 3. Running the Spider:
     ```bash
