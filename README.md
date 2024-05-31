@@ -13,7 +13,7 @@ This project implements a web scraper using Scrapy to extract information from t
 1. Clone the repository:
    ```bash
    git clone https://github.com/shayan-alimoradi/occupation-list
-   cd occupation
+   cd occupation-list
 
 2. Install dependencies:
     ```bash
